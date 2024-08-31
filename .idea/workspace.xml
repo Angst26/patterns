@@ -1,38 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7d497855-de64-488c-b006-6d3012f16a00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ClickListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/builder/AutoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/builder/HeavyAutoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/builder/builder/LeightAutoBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/builder/BusinessCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/BusinessCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/builder/BusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/BusinessCardBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/builder/LargeBusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/LargeBusinessCardBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/builder/SmallBusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/builder/SmallBusinessCardBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/EmailNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/EmailNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/Notifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/Priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/SMSNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/SMSNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chain/SimpleNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain/SimpleNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/DeveloperDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/DeveloperDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/SeniorDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/SeniorDeveloper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/SigleDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/structural/decorator/SigleDeveloper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/SingleResourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/SingleResourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/META-INF/patterns1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/builder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/builder/builder/BusinessCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/builder/builder/BusinessCardBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/builder/builder/LargeBusinessCardBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/builder/builder/SmallBusinessCardBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/chain/EmailNotifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/chain/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/chain/Notifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/chain/Priority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/chain/SMSNotifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/chain/SimpleNotifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/decorator/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/decorator/DeveloperDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/decorator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/decorator/SeniorDeveloper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/decorator/SigleDeveloper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns1/singleton/SingleResourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/builder/BusinessCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/builder/BusinessCardBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/builder/LargeBusinessCardBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/builder/SmallBusinessCardBuilder.java" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,31 +56,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Angst26"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Angst26/patterns.git",
+    "accountId": "1c1a334e-6ce3-4b29-aa90-2c7b14812e2c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2HuXthZLcIl9EbqUSuYP8RDaDL3" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/behavioral/observer" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aktyb\ideaProject\patterns1\src\behavioral\observer" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="creational.builder.Main" />
       <module name="patterns1" />
@@ -111,12 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
